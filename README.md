@@ -7,7 +7,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
@@ -27,14 +26,6 @@ Users should be able to:
 
 ![](screenshot-desktop.png)
 ![](screenshot-mobile.png)
-
-
-
-### Links
-
-- Solution URL: [My Solution](https://your-solution-url.com)
-
-
 
 ### Built with
 
@@ -93,7 +84,6 @@ then the mobile image will be displayed and if it is 550px wide or more the desk
 
 ## Author
 
-- Github - [Leviathan](https://github.com/whyleviathan)
 - Frontend Mentor - [@whyleviathan](https://www.frontendmentor.io/profile/whyleviathan)
 
 
