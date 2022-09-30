@@ -33,7 +33,6 @@ Users should be able to:
 - CSS 
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 
 ### What I learned
@@ -41,7 +40,7 @@ Users should be able to:
 I learned how to use @media queries on screens.
 
 if the screen is 550px wide or less,
-then the mobile image will be displayed and if it is 550px wide or more the desktop image will be displayed.
+then the image will change its style to look better on a mobile screen.
 
 ```css
 
