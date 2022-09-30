@@ -8,6 +8,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
+  - [My Solution](#solution)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
@@ -33,6 +34,11 @@ Users should be able to:
 - CSS 
 - Flexbox
 - CSS Grid
+
+
+### Solution
+
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/product-card-preview-8efKKQi5Sn)
 
 
 ### What I learned
